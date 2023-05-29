@@ -1,4 +1,3 @@
-![logo](https://github.com/rahmanaatiq/atiq/blob/main/1f4241964c8d3d6f8cd78cbcf38db7a5.jpeg)
 
 <h1 align="center">Hi 👋, I'm MD Atiqur Rahman</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
