@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm MD Atiqur Rahman</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
 
-<img align="right" alt"coding" width="400"src"![image](https://github.com/rahmanaatiq/atiq/assets/134495298/52094e90-9cca-4d12-bb7b-2114b00e940d)">
+<img align="right" alt"coding" width="150"src"![image](https://github.com/rahmanaatiq/atiq/assets/134495298/8311b4da-58d6-40e7-88bc-cbe75911270f)
+">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=github&label=Profile%20views&color=0e75b6&style=flat" alt="github" /> </p>
 
